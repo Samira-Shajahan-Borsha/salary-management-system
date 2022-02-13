@@ -1,0 +1,13 @@
+
+
+-------------------------  SALARY  MANAGEMENT  APPLICATION  ------------------------------
+--------------------------------------  MENU  ----------------------------------------
+           Choose   an   Option :
+           Press  "a"  to  Add  Employee
+           Press  "b"  to  Update  Salary  Per  Hour
+           Press  "c"  to  Display  Employee  Salary  Sheet
+           Press  "d"  to  Close  App 
+----------------------------------------------------------------------------------
+  Disclaimer : Salary Per Hour for all depertments are fixed to zero initially. 
+               Please update Salary Per Hour before proceeding with respectable depertments.
+-------------------------------------------------------------------------------------

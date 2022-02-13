@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------------
+           < < UPDATE EMPLOYEES SALARY PER HOUR > >
+
+    Choose Employee's Depertment :
+           Press  "a"  to  update Manager salary per hour
+           Press  "b"  to  update Receptionist salary per hour
+           Press  "c"  to  update Salesperson salary per hour
+           Press  "d"  to  update Accountant salary per hour
+           Press  "e"  to  exit to MENU
+         
+-------------------------------------------------------------------------------------

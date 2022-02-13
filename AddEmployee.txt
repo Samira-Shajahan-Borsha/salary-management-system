@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------------
+                            < < ADD EMPLOYEE >>
+
+       Choose Employee's Depertment :
+           Press  "a"  to  add Manager
+           Press  "b"  to  add Receptionist
+           Press  "c"  to  add Salesperson
+           Press  "d"  to  add Accountant
+           Press  "e"  to  add Senior Salesperson
+           Press  "f"   to  add Senior Accountant
+           Press  "g"  to  add Exit to Menu
+-------------------------------------------------------------------------------------
